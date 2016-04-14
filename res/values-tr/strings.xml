@@ -152,7 +152,7 @@
     <string name="genre">Tür</string>
     <string name="auto_update">Aşağıdaki alanları şimdi kendiliğinden güncellemek ister misiniz: \n* Tür \n* Tanım \n* Ufak resimler\n\n Vazgeç\'i seçerseniz bunu her zaman Yönetim bölümünden yeniden çalıştırabilirsiniz.</string>
     <string name="notset">Ayarlı değil</string>
-    <string name="menu_search">Kiatp ara</string>
+    <string name="menu_search">Kitap ara</string>
     <string name="menu_insert_name">Ad ile ekle</string>
     <string name="isbn_name_search_help">Kitapları ISBN ile eklemek kitap adı veya yazar adı ile eklemekten çok daha doğru sonuç verir ve genelde yeğlenir. Unutmayın ki doğru barkodu ön kapağın iç kısmında da bulabilirsiniz\n\n</string>
     <string name="help_click_here">Çevrimiçi yardım sayfalarına erişmek için lütfen dokunun</string>
@@ -301,14 +301,14 @@
     <string name="edit_book_send_to_gr">Goodreads\'e gönder</string>
     <string name="goodreads">goodreads</string>
     <string name="goodreads_label">Goodreads</string>
-    <string name="goodreads_auth_blurb_part1">Goodreads, ağ sayfasında belirtildiği üzere ereği \"kişilerin sevdiği kitapları bulmasına ve paylaşmasına yardımcı olmak\" olan bir servistir.
- 										Çok geniş bir kitap ve yorum veritabanına iye olan Goodreads\'te kayıtlı bir  											    		    
+    <string name="goodreads_auth_blurb_part1">Goodreads, ağ sayfasında belirtildiği üzere amacı \"kişilerin sevdiği kitapları bulmasına ve paylaşmasına yardımcı olmak\" olan bir servistir.
+ 										Çok geniş bir kitap ve yorum veritabanına üye olan Goodreads\'te kayıtlı bir  											    		    
  										kullanıcı iseniz BookCatalogue Goodreads\'ten kitaplarınızı, raflarınızı ve yorumlarınızı
  										alabilir veya Goodreads\'e gönderebilir. BookCatalogue kendi başına bir uygulama olup
  										Goodreads\'i gerektirmemektedir, ancak ilgilendiyseniz buradan kayıt olabilirsiniz:</string>
     <string name="goodreads_auth_blurb_part2">Kayıt olduktan sonra veya kayıtlı bir kullanıcı iseniz Goodreads verilerinize ulaşmak için aşağıdaki düğmeye basın. 
-										Sizi Goodreads\'e giriş yapabileceğiniz bir ağ sayfasına yönlendirecektir. Açarsözünüzü (şifrenizi) biz 										    kesinlikle görmeyeceğiz ve dilediğiniz zaman erişimi Goodreads ağ sayfasından iptal edebilirsiniz. 
-										Bazen boş bir bete düşerseniz geri düğmesine basıp buraya dönebilirsiniz!</string>
+										Sizi Goodreads\'e giriş yapabileceğiniz bir ağ sayfasına yönlendirecektir. Şifrenizi biz 										    kesinlikle görmeyeceğiz ve dilediğiniz zaman erişimi Goodreads ağ sayfasından iptal edebilirsiniz. 
+										Bazen boş bir sayfaya düşerseniz geri düğmesine basıp buraya dönebilirsiniz!</string>
     <string name="goodreads_auth_blurb_part3">Ancak unutmayın&#8230; bunu yapmanız zorunlu değil, BookCatalogue tek başına da gayet de çalışır!</string>
     <string name="goodreads_url">http://www.goodreads.com</string>
     <string name="authorize_access">Erişime izin ver</string>
@@ -327,7 +327,7 @@
     <string name="add_manually">El ile ekle</string>
     <string name="scan_barcode">Barkod/ISBN tara</string>
     <string name="enter_barcode">Barcode/ISBN gir</string>
-    <string name="search_internet">Genelağ\'da ara</string>
+    <string name="search_internet">Internet\'te ara</string>
     <string name="show_results">Sonuçları göster</string>
     <string name="rebuild_fts">FTS\'yi yeniden yapıla (aşırı deneysel)</string>
     <string name="search_in">Burada ara:</string>
@@ -335,7 +335,7 @@
     <string name="legacy_task">Eski görev</string>
     <string name="occurred_at">%1$s içinde oluştu</string>
     <string name="unknown_uc">BİLİNMEYEN</string>
-    <string name="this_book_deleted_uc">BU BETİK SİLİNDİ</string>
+    <string name="this_book_deleted_uc">BU KİTAP SİLİNDİ</string>
     <string name="by">%1$s ile</string>
     <string name="no_matching_book_found">Eşleşen kitap bulunamadı</string>
     <string name="no_isbn_stored_for_book">Bu kitap için bir ISBN depolanmamış</string>
@@ -347,7 +347,7 @@
     <string name="authorized">Yetkilendirilmiş</string>
     <string name="not_authorized">Yetkilendirilmemiş</string>
     <string name="goodreads_auth_error">Goodreads yetkilendirmesi bir hataya neden oldu</string>
-    <string name="if_the_problem_persists">Eğer sorun sürerse lütfen ana seçkedeki Yardım bölümünden destek ile iletişime geçin.</string>
+    <string name="if_the_problem_persists">Eğer sorun sürerse lütfen ana menüdeki Yardım bölümünden destek ile iletişime geçin.</string>
     <string name="book_no_longer_exists">Belirtilen kitap artık yok</string>
     <string name="please_enter_search_criteria">Lütfen arama kriteri girin</string>
     <string name="error_while_searching">Arama sırasında hata</string>
@@ -376,8 +376,8 @@
     <string name="no_title">(ad yok)</string>
     <string name="no_publisher">(yayımcı yok)</string>
     <string name="no_author">(yazar yok)</string>
-    <string name="no_date">(günay yok)</string>
-    <string name="book_lists">Kitap dizelgeleri</string>
+    <string name="no_date">(tarih yok)</string>
+    <string name="book_lists">Kitap listeleri</string>
     <string name="show_all_authors">Kitapları yazarların altında göster</string>
     <string name="show_all_series">Kitapları tüm serilerde göster</string>
     <string name="show_thumbnails">Ufak resimleri göster</string>
@@ -391,7 +391,7 @@
     <string name="sort_loaned">Ödünç verilmiş</string>
     <string name="sort_read_and_unread">Okunmuş ve okunmamış</string>
     <string name="sort_publication_date">Yayın tarihi</string>
-    <string name="sort_added_date">Eklenen günay</string>
+    <string name="sort_added_date">Eklenen tarih</string>
     <string name="sort_author_year">Önce yazar sonra yıl</string>
     <string name="empty_with_brackets">(boş)</string>
     <string name="navigator">Yerbulucu</string>
@@ -409,7 +409,7 @@
     <item name="MENU_EDIT_STYLE" type="id"/>
     <item name="MENU_CLONE_STYLE" type="id"/>
 
-    <string name="booklist_preferences">Kitap dizelgesi yeğlenenleri</string>
+    <string name="booklist_preferences">Kitap listesi tercihleri</string>
     <string name="extra_book_details">Ek kitap ayarları</string>
     <string name="general">Genel</string>
     <string name="bookshelves">Kitap rafları</string>
@@ -423,12 +423,12 @@
     <string name="optimizing_databases">Veritabanları eniyileniyor&#8230;</string>
     <string name="starting_up">Başlatılıyor&#8230;</string>
     <string name="book_catalogue_startup">BookCatalogue başlangıç</string>
-    <string name="book_list_state">Kitap dizelgesi durumu</string>
-    <string name="always_start_booklists_expanded">Kitap dizelgelerini genişletilmiş olarak başlat</string>
-    <string name="always_start_booklists_collapsed">Kitap dizelgelerini içe kapalı olarak başlat</string>
-    <string name="remember_booklists_state">Kitap dizelgesi durumunu koru</string>
+    <string name="book_list_state">Kitap listesi durumu</string>
+    <string name="always_start_booklists_expanded">Kitap listelerini genişletilmiş olarak başlat</string>
+    <string name="always_start_booklists_collapsed">Kitap listelerini içe kapalı olarak başlat</string>
+    <string name="remember_booklists_state">Kitap listesi durumunu koru</string>
     <string name="searching_goodreads">Goodreads\'te aranıyor</string>
-    <string name="edit_book_list_styles">Kitap dizelgesi biçemlerini düzenle</string>
+    <string name="edit_book_list_styles">Kitap listesi biçimlerini düzenle</string>
     <string name="show_more_ellipsis">Daha fazla göster&#8230;</string>
     <string name="show_fewer_ellipsis">Daha az göster&#8230;</string>
     <string name="customize_ellipsis">Kişiselleştir&#8230;</string>
@@ -436,41 +436,41 @@
     <string name="reset_hints">İpuçlarını sıfırla</string>
     <string name="do_not_show_again">Bir daha gösterme</string>
     <string name="other_settings_ellipsis">Diğer ayarlar&#8230;</string>
-    <string name="hint_booklist_styles_editor">Bu ekranı öntanımlı biçemler seçkesinde görüntülenecek biçemler dizelgesini düzenlemek için kullanabilirsiniz. 
-    										\n\nYeşil onay simgesi biçemin listede görüntüleneceğini, kırmızı artı ise görüntülenmeyeceğini belirtir.
+    <string name="hint_booklist_styles_editor">Bu ekranı öntanımlı biçimler seçkesinde görüntülenecek biçimler listesini düzenlemek için kullanabilirsiniz. 
+    										\n\nYeşil onay simgesi biçimin listede görüntüleneceğini, kırmızı artı ise görüntülenmeyeceğini belirtir.
     										Yeşil onay simgesine dokunmak onu kırmızı artıya dönüştürür, tersi de onay simgesi için geçerlidir.
-    										\n\nEğer onay simgeli bir biçem yoksa tüm biçemler gösterilir.
-    										\n\nIt is also possible to re-order the items by dragging the icon at the extreme right of each row.
-    										\n\nBir satırda herhangi bir yere dokunmak o biçemin ayrıntılarını düzenleme olanağı tanır (veya çoğaltır, eğer yerleşik bir biçemse).
+    										\n\nEğer onay simgeli bir biçim yoksa tüm biçimler gösterilir.
+    										\n\nAyrıca simgeyi her satırın en sağına çekerek de öğeleri sıralamak mümkündür.
+    										\n\nBir satırda herhangi bir yere dokunmak o biçimin ayrıntılarını düzenleme olanağı tanır (veya çoğaltır, eğer yerleşik bir biçemse).
 </string>
-    <string name="hint_booklist_style_groups">Bu ekranı özel bir kitap dizelgesi biçemi hiyerarşisini düzenlemek için kullanabilirsiniz.
+    <string name="hint_booklist_style_groups">Bu ekranı özel bir kitap listesi biçimi sıralamasını düzenlemek için kullanabilirsiniz.
     										\n\nYeşil onay simgesi başlığın listede görüntüleneceğini, kırmızı artı ise görüntülenmeyeceğini belirtir.
     										Yeşil onay simgesine dokunmak onu kırmızı artıya dönüştürür, tersi de onay simgesi için geçerlidir.
-    										\n\nHiyerarşiyi sağ uçtaki simgeyi yukarı-aşağı taşıyarak değiştirebilirsiniz.
+    										\n\nSıralamayı sağ uçtaki simgeyi yukarı-aşağı taşıyarak değiştirebilirsiniz.
 </string>
-    <string name="hint_booklist_style_properties">Bu ekranı seçilen kitap dizgesi biçeminin özelliklerini değiştirmek üzere kullanabilirsiniz.
-    										\n\nBuradan adını değiştirelibilr, hiyerarşiyi değiştirmek için öbeklendirmeyi düzenleyebilir ve										    kullanışlı bir biçem yaratmak için diğer ayarları yapabilirsiniz.
-    										\n\n\'Kitap süzgeçleri\' ayarlarını kullanarak kitap dizgelerinde görüntülenecek seçimleri          										    ayarlayabilirsiniz, örneğin yalnızca okumadığınız kitapları vb. seçebilirsiniz.
+    <string name="hint_booklist_style_properties">Bu ekranı seçilen kitap listesi biçiminin özelliklerini değiştirmek üzere kullanabilirsiniz.
+    										\n\nBuradan adını değiştirelibilr, sıralamayı değiştirmek için gruplandırmayı düzenleyebilir ve	kullanışlı bir biçim yaratmak için diğer ayarları yapabilirsiniz.
+    										\n\n\'Kitap süzgeçleri\' ayarlarını kullanarak kitap listelerinde görüntülenecek seçimleri ayarlayabilirsiniz, örneğin yalnızca okumadığınız kitapları vb. seçebilirsiniz.
 </string>
-    <string name="hint_booklist_global_properties">Bu ekranı tüm kitap dizgesi biçeminin özelliklerini değiştirmek üzere kullanabilirsiniz.
+    <string name="hint_booklist_global_properties">Bu ekranı tüm kitap listesi biçiminin özelliklerini değiştirmek üzere kullanabilirsiniz.
     										\n\nÇoğu özellikler kişisel biçemlerle değiştirilebilir, ancak öntanımlı değerler burada
     										tanımlanmışlardır.
-    										\n\nArdalanı değiştirebilir, dizelgelerin başlangıçta nasıl görüntüleneceğini seçebilir
-    										ve diğer tüm biçemlerinize uygulanacak çoğu ayarı buradan yapabilirsiniz.
-    										\n\nAynı zamanda biçemler seçkesini ve biçemlerin kendisini dedüzenleyebilirsiniz.
+    										\n\nArdalanı değiştirebilir, listelerin başlangıçta nasıl görüntüleneceğini seçebilir
+    										ve diğer tüm biçimlerinize uygulanacak çoğu ayarı buradan yapabilirsiniz.
+    										\n\nAynı zamanda biçimler menüsünü ve biçimlerin kendisini de düzenleyebilirsiniz.
 </string>
-    <string name="preferred_styles">Yeğlenen biçemler</string>
-    <string name="edit_style_colon_name">Biçemi düzenle: %1$s</string>
-    <string name="add_style">Biçem ekle</string>
-    <string name="clone_style_colon_name">Biçemi çoğalt: %1$s</string>
+    <string name="preferred_styles">Yeğlenen biçimler</string>
+    <string name="edit_style_colon_name">Biçimi düzenle: %1$s</string>
+    <string name="add_style">Biçim ekle</string>
+    <string name="clone_style_colon_name">Biçimi çoğalt: %1$s</string>
     <string name="non_blank_arg_required">\'%1$s\' için boş olmayan bir değer belirtilmelidir</string>
     <string name="select_read_only">Yalnızca okunan kitapları seç</string>
     <string name="select_unread_only">Yalnızca okunmayan kitapları seç</string>
     <string name="extra_filters">Kitap süzgeçleri</string>
-    <string name="new_style">Yeni biçem</string>
+    <string name="new_style">Yeni biçim</string>
     <string name="select_based_on_read_status">\'Okunma\' durumuna göre seç</string>
     <string name="books_with_multiple_authors">Birden fazla yazarlı kitaplar</string>
-    <string name="books_in_multiple_series">Birden fazla seride bulunan kitaplar</string>
+    <string name="books_in_multiple_series">Birden fazla dizide bulunan kitaplar</string>
     <string name="use_default_setting">Öntanımlı ayarları kullan</string>
     <string name="show_book_under_each_thing">Her %1$s altında</string>
     <string name="show_book_under_primary_thing">Yalnızca birincil %1$s altında</string>
@@ -478,23 +478,23 @@
     <string name="given_name_first_eg">Ad başta, örneğin \'Özgür Çapulcu\'</string>
     <string name="family_name_first_eg">Soyad başta, örneğin \'Çapulcu, Özgür\'</string>
     <string name="thumbnails">Ufak resimler</string>
-    <string name="size_of_booklist_items">Kitap dizelgesi öğeleri boyutu</string>
-    <string name="normal">Olağan</string>
+    <string name="size_of_booklist_items">Kitap listesi öğeleri boyutu</string>
+    <string name="normal">Normal</string>
     <string name="smaller">Daha ufak</string>
-    <string name="select_style">Biçem seç</string>
-    <string name="booklist_background_style">Kitap dizelgesi ardalan biçemi</string>
+    <string name="select_style">Biçim seç</string>
+    <string name="booklist_background_style">Kitap listesi ardalan biçemi</string>
     <string name="textured_backgroud">Dokulu ardalan resmi</string>
     <string name="plain_background_b_reduces_flicker_b">Düz ardalan (titremeyi azaltır)</string>
     <string name="thing_must_not_be_blank">%1$s boş olamaz</string>
     <string name="edit">Düzenle</string>
-    <string name="groupings">Öbeklemeler</string>
+    <string name="groupings">Gruplamalar</string>
     <string name="will_be_shown">Gösterilecek</string>
     <string name="will_not_be_shown">Gösterilmeyecek</string>
-    <string name="preferences">Yeğlenenler</string>
-    <string name="unexpected_error">Beklenmeyen bir hata oluştu, lütfen olayla ilgili ayrıntıları ana seçkedeki \'Yardım\' seçeneğinden bize gönderin</string>
-    <string name="delete_style">Biçemi sil</string>
-    <string name="edit_style">Biçemi düzenle</string>
-    <string name="clone_style">Biçemi çoğalt</string>
+    <string name="preferences">Tercihler</string>
+    <string name="unexpected_error">Beklenmeyen bir hata oluştu, lütfen olayla ilgili ayrıntıları ana menüdeki \'Yardım\' seçeneğinden bize gönderin</string>
+    <string name="delete_style">Biçimi sil</string>
+    <string name="edit_style">Biçimi düzenle</string>
+    <string name="clone_style">Biçimi çoğalt</string>
     <string name="dash_or_dash">- Veya -</string>
     <string name="paypal_donation">PayPal bağışı</string>
     <string name="compact">Küçük</string>
@@ -523,27 +523,27 @@
     <string name="sync_with_goodreads">Goodreads ile eşitle</string>
     <string name="cover_options_cc_ellipsis">Kapak seçenekleri&#8230;</string>
     <string name="show_events_ellipsis">Olayları göster&#8230;</string>
-    <string name="hint_authors_book_may_appear_more_than_once">Eğer her yazar için gösteriliyorsa, tek bir kitap bir dizelgede birden fazla görünebilir. Böyle bir durumda bu kitaplardan birini silmek dizelgeden tüm girileri silecektir.</string>
-    <string name="hint_series_book_may_appear_more_than_once">Eğer her bir seride gösteriliyorsa, tek bir kitap bir dizelgede birden fazla görünebilir. Böyle bir durumda bu kitaplardan birini silmek dizelgeden tüm girileri silecektir.</string>
+    <string name="hint_authors_book_may_appear_more_than_once">Eğer her yazar için gösteriliyorsa, tek bir kitap bir listede birden fazla görünebilir. Böyle bir durumda bu kitaplardan birini silmek listeden tüm girişleri silecektir.</string>
+    <string name="hint_series_book_may_appear_more_than_once">Eğer her bir seride gösteriliyorsa, tek bir kitap bir listede birden fazla görünebilir. Böyle bir durumda bu kitaplardan birini silmek listeden tüm girişleri silecektir.</string>
     <string name="hint_background_tasks">Buradan şu anda çalışan olayları, önceki hata ile biten diğer olayları ve diğer dikkate değer olayları görebilirsiniz. 
     								Bir göreve tıklamak o görevle ilişkili tüm olayları görmenizi ve/veya görevi silebilmenizi (ve ilişkili diğer olayları) sağlar.</string>
     <string name="hint_background_task_events">Buradan bir ardalan görevi ile ilişkili tüm olayları görebilirsiniz. 
     								Bir olaya tıklamak o olayla ilintili yapılabilecek eylemleri görüntülemenizi sağlar.</string>
     <string name="hints_have_been_reset">İpuçları sıfırlandı</string>
     <string name="task_has_been_queued_in_background">Görev ardalanda kuyruğa yerleştirildi</string>
-    <string name="hint_startup_screen">Bu ölçünlü BookCatalogue başlangıç ekranıdır. Eğer isterseniz doğrudan \'Kitaplarım\'; ekranından başlayabilirsiniz. Başlangıç ekranı yeğlenenlerden değiştirilebilir.</string>
+    <string name="hint_startup_screen">Bu standart BookCatalogue başlangıç ekranıdır. Eğer isterseniz doğrudan \'Kitaplarım\'; ekranından başlayabilirsiniz. Başlangıç ekranı tercihlerden değiştirilebilir.</string>
     <string name="upgrading_ellipsis">Yükseltiliyor&#8230;</string>
-    <string name="explain_goodreads_no_isbn">Seçili kitabın bir ISBN numarası yok, dolayısıyla Goodreads ile özdevinimli olarak eşitlenmesi olanaklı değil. 
+    <string name="explain_goodreads_no_isbn">Seçili kitabın bir ISBN numarası yok, dolayısıyla Goodreads ile kendiliğinden eşitlenmesi olanaklı değil. 
     									En yalın çözüm olarak:
     									\n\n(1) Kitabı Goodreads\'ten silin,
     									\n\n(2) Kitabı Goodreads\'e el ile ağ sayfasından ekleyin,
     									\n\n(3) Goodreads ile eşitleme yapın.
-    									\n\nBu kitabın BookCatalogue\'de yeniden oluşturulmasını sağlar ve her iki giri birbiri ile sürekli eşitlenmiş kalacaktır.</string>
+    									\n\nBu kitabın BookCatalogue\'de yeniden oluşturulmasını sağlar ve her iki giriş birbiri ile sürekli eşitlenmiş kalacaktır.</string>
     <string name="explain_goodreads_no_match">Seçili kitabın ISBN\'si Goodreads\'te bulunamadı. Bunun olası iki nedeni vardır: 
     									Ya kitap için girdiğiniz veri hatalı (ISBN\'yi kontrol edin) veya kitap Goodreads\'te bulunmuyor. 
     									\n\nEğer BookCatalogue\'de herhangi bir veriyi değiştirirseniz, yalnızca \'Yeniden dene\' düğmesine basın 
     									ve oluşan ardalan görevinin başarıyla tamamlanıp tamamlanmadığına bakın. 
-    									\n\nEğer veri doğru olup, ancak kitap hala bulunamıyorsa bu kitabın ISBN\'si ile birlikte Goodreads\'e el ile
+    									\n\nEğer veri doğru olup kitap hala bulunamıyorsa bu kitabın ISBN\'si ile birlikte Goodreads\'e el ile
 									ağ sayfasından eklenmesi gerekmektedir. Bu yapıldıktan sonra kitabı yeniden göndermeyi deneyebilirsiniz.</string>
     <string name="read_amp_unread">Okunan &amp; Okunmayan</string>
     <string name="loaned">Ödünç verilen</string>
@@ -560,18 +560,18 @@
     <string name="no_export_files_found">Herhangi bir dışa aktarma dosyası bulunamadı</string>
     <string name="more_than_one_export_file_blah">Birden fazla dışa aktarma dosyası bulundu; lütfen içe aktarmak üzere aşağıdaki dışa aktarma dosyalarından birini seçin</string>
     <string name="problem_starting_import_arg">İçe aktarmaya başlarken bir hata oluştu: %1$s</string>
-    <string name="hint_booklist_style_menu">Bu seçke size dizelge biçemini seçmenize olanak tanır. 
-    								\n\nEk olarak dizelgenin sonundaki \'Kişiselleştir\' düğmesini kullanarak bu seçkeyi kişiselleştirebilir ve hatta kendi dizelge biçemlerinizi oluşturabilirsiniz.</string>
+    <string name="hint_booklist_style_menu">Bu menü liste biçimini seçmenizi sağlar. 
+    								\n\nEk olarak listenin sonundaki \'Kişiselleştir\' düğmesini kullanarak bu menüyü kişiselleştirebilir, hatta kendi liste biçimlerinizi oluşturabilirsiniz.</string>
     <string name="menu_edit_format">Biçimi düzenle&#8230;</string>
     <string name="edit_format_name">Biçim adını düzenle</string>
     <string name="name_can_not_be_blank">Ad kısmı boş olamaz</string>
     <string name="export_starting_ellipsis">Dışa aktarma başlıyor&#8230;</string>
     <string name="resizing_cover_thumbnails">Kapak ufak resimleri yeniden boyutlandırılıyor</string>
     <string name="resize_each_time">Gerekli olduğunda her seferinde yeniden boyutlandır (daha az yer kaplar, kaydırma daha yavaş olacaktır)</string>
-    <string name="cache_resized_thumbnails_for_later_use">Yeniden boyutlandırılmış ufak resimleri bellekte tut (daha fazla yer kaplar, dizelgeler daha hızlı kayar)</string>
+    <string name="cache_resized_thumbnails_for_later_use">Yeniden boyutlandırılmış ufak resimleri bellekte tut (daha fazla yer kaplar, listeler daha hızlı kayar)</string>
     <string name="generating_cover_thumbnails">Kapak ufak resimleri oluşturuluyor</string>
-    <string name="use_background_thread">Ardalanda iş oluştur (dizelgeler daha hızlı kayar, resimlerin görüntülenmesi gecikebilir)</string>
-    <string name="generate_immediately">Anında oluştur (dizelgeler daha yavaş kayar, resimler anında görüntülenir)</string>
+    <string name="use_background_thread">Ardalanda iş oluştur (listeler daha hızlı kayar, resimlerin görüntülenmesi gecikebilir)</string>
+    <string name="generate_immediately">Anında oluştur (listeler daha yavaş kayar, resimler anında görüntülenir)</string>
     <string name="sort_and_style_ellipsis">Sıralama &amp; biçemi&#8230;</string>
     <string name="disable_background_image">Ardalan resmini kapat</string>
     <string name="displaying_n_books_in_m_entries">%2$s giride %1$s kitap görüntüleniyor</string>
@@ -707,8 +707,8 @@
     </string>
 
     <!-- Hint text displayed when user enters the book listw -->
-    <string name="hint_view_only_book_details">Bu dizelgedeki herhangi bir öğeye dokunduğunuzda artık salt okunur kitap ayrıntıları ekranına gidebilirsiniz. 
-İlgili ayar için "Diğer yeğlenenler" bölümüne bakın.
+    <string name="hint_view_only_book_details">Bu listedeki herhangi bir öğeye dokunduğunuzda artık salt okunur kitap ayrıntıları ekranına gidebilirsiniz. 
+İlgili ayar için "Diğer tercihler" bölümüne bakın.
 </string>
 
     <!-- Hint text displayed when user enters the 'read-only' book view -->
@@ -852,7 +852,7 @@
 
     <!-- Begin: Added/Updated in 5.0.5 -->
     <!--  New preference to override the default method used to generate bookslists as defined by API level -->
-    <string name="booklist_generation">Kitap dizelgesi oluşturma seçeneği</string>
+    <string name="booklist_generation">Kitap listesi oluşturma seçeneği</string>
     <!-- Option listed under "booklist_generation" referring to a very conservative way of generating bookslists -->
     <string name="force_compatibility_mode">Uyumluluk kipini zorla</string>
     <!-- Option listed under "booklist_generation" referring to a conservative way of generating bookslists -->
@@ -860,12 +860,12 @@
     <!-- Option listed under "booklist_generation" referring to a conservative way of generating bookslists -->
     <string name="force_fully_featured">Tam takım oluşturma seçeneğini zorla</string>
     <!-- Default Option listed under "booklist_generation" referring to a conservative way of generating bookslists -->
-    <string name="automatically_use_recommended_option">Özdevinimli olarak önerilen ayarları kullan</string>
+    <string name="automatically_use_recommended_option">Kendiliğinden önerilen ayarları kullan</string>
     
     <string name="new_in_505">
 		<![CDATA[
 			<p><b>5.0.5 sürümündeki yenilikler</b>\n\n
-				* "Eklenen günay" dizelgesi şimdi ters sırada diziliyor \n\n
+				* "Eklenen tarih" listesi şimdi ters sıralanıyor \n\n
 				* Fransızca çeviri güncellemeleri (Imkal)\n\n
 				* Hata düzeltmeleri\n\n
 			</p>
@@ -929,7 +929,7 @@
     <!-- Brief descriptionn -->
     <string name="preferences_blurb">Yeğlenenler ve kullanıcı tanımlı dizelge biçemleri</string>
     <!-- Explanatory note for export date (not yet implemented) -->
-    <string name="export_advanced_date_blurb">Seçeneğe bağlı olarak, dışarı aktarılacak kitaplarda ve/veya kapak görsellerinde kullanılacak bir günay seçin:</string>
+    <string name="export_advanced_date_blurb">Seçeneğe bağlı olarak, dışarı aktarılacak kitaplarda ve/veya kapak görsellerinde kullanılacak bir tarih seçin:</string>
     <!-- Explanatory note for export date (not yet implemented) -->
     <string name="all_books_added_or_updated_since">Şu günaydan bu yana eklenen veya güncellenen kitaplar:</string>
     <!-- Explanatory note for export data since last backup -->
@@ -959,7 +959,7 @@
    * İspanyolca çeviri (José M. Galdo)\n\n
    * Türkçe çeviri (Emir Sarı)\n\n
    * Yalnıca yeni eklenen/güncellenen kitapları arşivleme ve kapak görsellerini (veya kitapları) içerme seçeneği\n\n
-   * Yüksek belirginlikli ekranlar için daha iyi ufak resim boyutu\n\n
+   * Yüksek çözünürlüklü ekranlar için daha iyi ufak resim boyutu\n\n
    * Kitapları Amazon\'daki yazarlara/dizilere göre gösterme desteği\n\n
    * Diğer ufak hata düzeltmeleri\n\n
    </p>
@@ -972,7 +972,7 @@
    <!-- Menu item -->
    <string name="amazon_books_by_author_in_series">Yazara/diziye göre kitaplar</string>
    <!-- Hint text displayed when user enters the book listw -->
-   <string name="hint_book_list">Bir kitabın üzerine dokunmak kitap ayrıntılarını gösterir, uzun basılı tutmak daha fazla seçeneğin olduğu bir dizelge verir.</string>
+   <string name="hint_book_list">Bir kitabın üzerine dokunmak kitap ayrıntılarını gösterir, uzun basılı tutmak daha fazla seçeneğin olduğu bir liste verir.</string>
    <!-- TRANLATORS NOTE: I HAVE UPDATED THE new_in_510, above! Sorry. -->
 
    <!-- Preference VALUE, displayed in a preference activity -->
@@ -1006,9 +1006,9 @@
    <![CDATA[
    <p><b>5.1.1 sürümündeki yenilikler</b>\n\n
    * Hata düzeltmeleri\n\n
-   * Yeni biçem: Son güncelleme günayına göre öbekle\n\n
-   * Yeni biçem: Beğeniye göre öbekle\n\n
-   * Yeni biçem: Kitap rafı adına göre öbekle\n\n
+   * Yeni biçim: Son güncelleme zamanına göre öbekle\n\n
+   * Yeni biçim: Beğeniye göre öbekle\n\n
+   * Yeni biçim: Kitap rafı adına göre öbekle\n\n
    </p>
    ]]>
    </string>
